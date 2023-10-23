@@ -24,5 +24,6 @@ public class TestStudent {
         for(Student s: students){
             System.out.println(s.getName());
         }
+        System.out.prinln("Update");
     }
 }
